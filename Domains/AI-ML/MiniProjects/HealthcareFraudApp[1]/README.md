@@ -1,6 +1,6 @@
 # 🏥 Healthcare Fraud Detection System
 
-**Contributor:** Snehal Baramade    
+**Contributor:** snehal492006    
 
 ---
 
